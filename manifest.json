@@ -1,6 +1,6 @@
 {
   "title": "ドラゴンボート レース GPS データ",
-  "updated": "2026-10-30",
+  "updated": "2026-11-02",
   "events": [
     {
       "name": "2025/11/02 天神祭奉納 日本国際選手権 (250m)",
@@ -682,6 +682,527 @@
           "file": "data/2026-07-19/R25_オープン決勝_05_関西龍舟バーバリアンズ.csv",
           "team": "関西龍舟バーバリアンズ",
           "race": "R25 オープン決勝"
+        }
+      ]
+    },
+    {
+      "name": "2026/11/01 第14回 スモールドラゴンボート日本選手権 (250m)",
+      "id": "2026-11-01",
+      "races": [
+        {
+          "file": "data/2026-11-01/R01_普及1回戦_01_龍人.csv",
+          "team": "龍人",
+          "race": "R01 普及1回戦"
+        },
+        {
+          "file": "data/2026-11-01/R01_普及1回戦_02_うみひRISE.csv",
+          "team": "うみひRISE",
+          "race": "R01 普及1回戦"
+        },
+        {
+          "file": "data/2026-11-01/R01_普及1回戦_03_超越龍舟.csv",
+          "team": "超越龍舟",
+          "race": "R01 普及1回戦"
+        },
+        {
+          "file": "data/2026-11-01/R02_女子1回戦1_01_CPPSDragonBoatTeam(Women).csv",
+          "team": "CPPSDragonBoatTeam(Women)",
+          "race": "R02 女子1回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R02_女子1回戦1_02_桜ノ宮艇庫前9時嬢.csv",
+          "team": "桜ノ宮艇庫前9時嬢",
+          "race": "R02 女子1回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R02_女子1回戦1_03_ShanglongDragonboatclub(Women).csv",
+          "team": "ShanglongDragonboatclub(Women)",
+          "race": "R02 女子1回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R02_女子1回戦1_04_水俣KOGIMIX漕美ちゃん.csv",
+          "team": "水俣KOGIMIX漕美ちゃん",
+          "race": "R02 女子1回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R02_女子1回戦1_05_沖縄龍舟シニア女子.csv",
+          "team": "沖縄龍舟シニア女子",
+          "race": "R02 女子1回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R03_女子1回戦2_01_水風(MIZUKAZE).csv",
+          "team": "水風(MIZUKAZE)",
+          "race": "R03 女子1回戦2"
+        },
+        {
+          "file": "data/2026-11-01/R03_女子1回戦2_02_SeaLuckDragonBoatClub緑海龍(Women).csv",
+          "team": "SeaLuckDragonBoatClub緑海龍(Women)",
+          "race": "R03 女子1回戦2"
+        },
+        {
+          "file": "data/2026-11-01/R03_女子1回戦2_03_東京龍舟プラチナ.csv",
+          "team": "東京龍舟プラチナ",
+          "race": "R03 女子1回戦2"
+        },
+        {
+          "file": "data/2026-11-01/R03_女子1回戦2_04_AquaFortisDragonBoatTeam(Women).csv",
+          "team": "AquaFortisDragonBoatTeam(Women)",
+          "race": "R03 女子1回戦2"
+        },
+        {
+          "file": "data/2026-11-01/R04_シニア予選1_01_関西龍舟ムファサ.csv",
+          "team": "関西龍舟ムファサ",
+          "race": "R04 シニア予選1"
+        },
+        {
+          "file": "data/2026-11-01/R04_シニア予選1_02_CPPSDragonBoatTeam(Senior).csv",
+          "team": "CPPSDragonBoatTeam(Senior)",
+          "race": "R04 シニア予選1"
+        },
+        {
+          "file": "data/2026-11-01/R04_シニア予選1_03_すいすい丸BOM-BA-YE.csv",
+          "team": "すいすい丸BOM-BA-YE",
+          "race": "R04 シニア予選1"
+        },
+        {
+          "file": "data/2026-11-01/R04_シニア予選1_04_R.スポーツマンクラブ.csv",
+          "team": "R.スポーツマンクラブ",
+          "race": "R04 シニア予選1"
+        },
+        {
+          "file": "data/2026-11-01/R04_シニア予選1_05_フォーティーズ.csv",
+          "team": "フォーティーズ",
+          "race": "R04 シニア予選1"
+        },
+        {
+          "file": "data/2026-11-01/R05_シニア予選2_01_琵琶湖ドラゴンボートクラブシニア.csv",
+          "team": "琵琶湖ドラゴンボートクラブシニア",
+          "race": "R05 シニア予選2"
+        },
+        {
+          "file": "data/2026-11-01/R05_シニア予選2_02_東京龍舟マスターズ.csv",
+          "team": "東京龍舟マスターズ",
+          "race": "R05 シニア予選2"
+        },
+        {
+          "file": "data/2026-11-01/R05_シニア予選2_03_SeaLuckDragonBoatClub緑海龍(Senior).csv",
+          "team": "SeaLuckDragonBoatClub緑海龍(Senior)",
+          "race": "R05 シニア予選2"
+        },
+        {
+          "file": "data/2026-11-01/R05_シニア予選2_04_bpシニア.csv",
+          "team": "bpシニア",
+          "race": "R05 シニア予選2"
+        },
+        {
+          "file": "data/2026-11-01/R05_シニア予選2_05_AquaFortisDragonBoatTeam(Senior).csv",
+          "team": "AquaFortisDragonBoatTeam(Senior)",
+          "race": "R05 シニア予選2"
+        },
+        {
+          "file": "data/2026-11-01/R06_シニア予選3_01_東京龍舟マスターズC.csv",
+          "team": "東京龍舟マスターズC",
+          "race": "R06 シニア予選3"
+        },
+        {
+          "file": "data/2026-11-01/R06_シニア予選3_02_SunshineDragonBoatTeam(Senior).csv",
+          "team": "SunshineDragonBoatTeam(Senior)",
+          "race": "R06 シニア予選3"
+        },
+        {
+          "file": "data/2026-11-01/R06_シニア予選3_03_沖縄龍舟シニア.csv",
+          "team": "沖縄龍舟シニア",
+          "race": "R06 シニア予選3"
+        },
+        {
+          "file": "data/2026-11-01/R06_シニア予選3_04_ShanglongDragonboatclub(Senior).csv",
+          "team": "ShanglongDragonboatclub(Senior)",
+          "race": "R06 シニア予選3"
+        },
+        {
+          "file": "data/2026-11-01/R07_混合予選1_01_水俣KOGIMIX.csv",
+          "team": "水俣KOGIMIX",
+          "race": "R07 混合予選1"
+        },
+        {
+          "file": "data/2026-11-01/R07_混合予選1_02_HKUSTMBAAADRAGONS(Mixed).csv",
+          "team": "HKUSTMBAAADRAGONS(Mixed)",
+          "race": "R07 混合予選1"
+        },
+        {
+          "file": "data/2026-11-01/R07_混合予選1_03_TeamBANANA.csv",
+          "team": "TeamBANANA",
+          "race": "R07 混合予選1"
+        },
+        {
+          "file": "data/2026-11-01/R07_混合予選1_04_CPPSDragonBoatTeam(Mixed)A.csv",
+          "team": "CPPSDragonBoatTeam(Mixed)A",
+          "race": "R07 混合予選1"
+        },
+        {
+          "file": "data/2026-11-01/R07_混合予選1_05_すいすい丸工場.csv",
+          "team": "すいすい丸工場",
+          "race": "R07 混合予選1"
+        },
+        {
+          "file": "data/2026-11-01/R08_混合予選2_01_DragonBoatClubG.P.O.csv",
+          "team": "DragonBoatClubG.P.O",
+          "race": "R08 混合予選2"
+        },
+        {
+          "file": "data/2026-11-01/R08_混合予選2_02_AllianceDragonBoatTeam(CPPSMixedB).csv",
+          "team": "AllianceDragonBoatTeam(CPPSMixedB)",
+          "race": "R08 混合予選2"
+        },
+        {
+          "file": "data/2026-11-01/R08_混合予選2_03_SeaLuckDragonBoatClub緑海龍(Mixed).csv",
+          "team": "SeaLuckDragonBoatClub緑海龍(Mixed)",
+          "race": "R08 混合予選2"
+        },
+        {
+          "file": "data/2026-11-01/R08_混合予選2_04_東京龍舟.csv",
+          "team": "東京龍舟",
+          "race": "R08 混合予選2"
+        },
+        {
+          "file": "data/2026-11-01/R08_混合予選2_05_関西龍舟バーバリアンズ.csv",
+          "team": "関西龍舟バーバリアンズ",
+          "race": "R08 混合予選2"
+        },
+        {
+          "file": "data/2026-11-01/R09_混合予選3_01_漕遊人.csv",
+          "team": "漕遊人",
+          "race": "R09 混合予選3"
+        },
+        {
+          "file": "data/2026-11-01/R09_混合予選3_02_AquaFortisDragonBoatTeam(Mixed).csv",
+          "team": "AquaFortisDragonBoatTeam(Mixed)",
+          "race": "R09 混合予選3"
+        },
+        {
+          "file": "data/2026-11-01/R09_混合予選3_03_TOKYODRAGON.csv",
+          "team": "TOKYODRAGON",
+          "race": "R09 混合予選3"
+        },
+        {
+          "file": "data/2026-11-01/R10_混合予選4_01_ShanglongDragonboatclub(Mixed).csv",
+          "team": "ShanglongDragonboatclub(Mixed)",
+          "race": "R10 混合予選4"
+        },
+        {
+          "file": "data/2026-11-01/R10_混合予選4_02_すいすい丸トレイン.csv",
+          "team": "すいすい丸トレイン",
+          "race": "R10 混合予選4"
+        },
+        {
+          "file": "data/2026-11-01/R10_混合予選4_03_ビューティープレミアMIX.csv",
+          "team": "ビューティープレミアMIX",
+          "race": "R10 混合予選4"
+        },
+        {
+          "file": "data/2026-11-01/R10_混合予選4_04_関西龍舟シンバ.csv",
+          "team": "関西龍舟シンバ",
+          "race": "R10 混合予選4"
+        },
+        {
+          "file": "data/2026-11-01/R11_オープン予選1_01_池の里LAKERS.csv",
+          "team": "池の里LAKERS",
+          "race": "R11 オープン予選1"
+        },
+        {
+          "file": "data/2026-11-01/R11_オープン予選1_02_SunshineDragonBoatTeam(Open).csv",
+          "team": "SunshineDragonBoatTeam(Open)",
+          "race": "R11 オープン予選1"
+        },
+        {
+          "file": "data/2026-11-01/R11_オープン予選1_05_水俣龍舟.csv",
+          "team": "水俣龍舟",
+          "race": "R11 オープン予選1"
+        },
+        {
+          "file": "data/2026-11-01/R12_オープン予選2_01_関空飛龍.csv",
+          "team": "関空飛龍",
+          "race": "R12 オープン予選2"
+        },
+        {
+          "file": "data/2026-11-01/R12_オープン予選2_02_bp.csv",
+          "team": "bp",
+          "race": "R12 オープン予選2"
+        },
+        {
+          "file": "data/2026-11-01/R12_オープン予選2_03_CPPSDragonBoatTeam(Open)A.csv",
+          "team": "CPPSDragonBoatTeam(Open)A",
+          "race": "R12 オープン予選2"
+        },
+        {
+          "file": "data/2026-11-01/R12_オープン予選2_04_東京龍舟ワイルド.csv",
+          "team": "東京龍舟ワイルド",
+          "race": "R12 オープン予選2"
+        },
+        {
+          "file": "data/2026-11-01/R12_オープン予選2_05_ヤンググリーン.csv",
+          "team": "ヤンググリーン",
+          "race": "R12 オープン予選2"
+        },
+        {
+          "file": "data/2026-11-01/R13_オープン予選3_01_磯風漕友会.csv",
+          "team": "磯風漕友会",
+          "race": "R13 オープン予選3"
+        },
+        {
+          "file": "data/2026-11-01/R13_オープン予選3_05_チーム未来.csv",
+          "team": "チーム未来",
+          "race": "R13 オープン予選3"
+        },
+        {
+          "file": "data/2026-11-01/R14_オープン予選4_01_BonOyage.csv",
+          "team": "BonOyage",
+          "race": "R14 オープン予選4"
+        },
+        {
+          "file": "data/2026-11-01/R14_オープン予選4_02_ShanglongDragonboatclub(Open).csv",
+          "team": "ShanglongDragonboatclub(Open)",
+          "race": "R14 オープン予選4"
+        },
+        {
+          "file": "data/2026-11-01/R14_オープン予選4_03_ヨイショ.csv",
+          "team": "ヨイショ",
+          "race": "R14 オープン予選4"
+        },
+        {
+          "file": "data/2026-11-01/R14_オープン予選4_04_IHI相生.csv",
+          "team": "IHI相生",
+          "race": "R14 オープン予選4"
+        },
+        {
+          "file": "data/2026-11-01/R15_女子2回戦1_01_水俣KOGIMIX漕美ちゃん.csv",
+          "team": "水俣KOGIMIX漕美ちゃん",
+          "race": "R15 女子2回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R15_女子2回戦1_05_桜ノ宮艇庫前9時嬢.csv",
+          "team": "桜ノ宮艇庫前9時嬢",
+          "race": "R15 女子2回戦1"
+        },
+        {
+          "file": "data/2026-11-01/R16_女子2回戦2_03_AquaFortisDragonBoatTeam(Women).csv",
+          "team": "AquaFortisDragonBoatTeam(Women)",
+          "race": "R16 女子2回戦2"
+        },
+        {
+          "file": "data/2026-11-01/R26_シニア準決勝1_05_SeaLuckDragonBoatClub緑海龍(Senior).csv",
+          "team": "SeaLuckDragonBoatClub緑海龍(Senior)",
+          "race": "R26 シニア準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R27_シニア準決勝2_01_東京龍舟マスターズ.csv",
+          "team": "東京龍舟マスターズ",
+          "race": "R27 シニア準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R27_シニア準決勝2_02_CPPSDragonBoatTeam(Senior).csv",
+          "team": "CPPSDragonBoatTeam(Senior)",
+          "race": "R27 シニア準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R27_シニア準決勝2_03_SunshineDragonBoatTeam(Senior).csv",
+          "team": "SunshineDragonBoatTeam(Senior)",
+          "race": "R27 シニア準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R27_シニア準決勝2_04_R.スポーツマンクラブ.csv",
+          "team": "R.スポーツマンクラブ",
+          "race": "R27 シニア準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R27_シニア準決勝2_05_すいすい丸BOM-BA-YE.csv",
+          "team": "すいすい丸BOM-BA-YE",
+          "race": "R27 シニア準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R28_混合準決勝1_01_水俣KOGIMIX.csv",
+          "team": "水俣KOGIMIX",
+          "race": "R28 混合準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R28_混合準決勝1_02_漕遊人.csv",
+          "team": "漕遊人",
+          "race": "R28 混合準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R28_混合準決勝1_03_ビューティープレミアMIX.csv",
+          "team": "ビューティープレミアMIX",
+          "race": "R28 混合準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R28_混合準決勝1_05_AquaFortisDragonBoatTeam(Mixed).csv",
+          "team": "AquaFortisDragonBoatTeam(Mixed)",
+          "race": "R28 混合準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R29_混合準決勝2_01_東京龍舟.csv",
+          "team": "東京龍舟",
+          "race": "R29 混合準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R29_混合準決勝2_02_関西龍舟シンバ.csv",
+          "team": "関西龍舟シンバ",
+          "race": "R29 混合準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R29_混合準決勝2_03_すいすい丸トレイン.csv",
+          "team": "すいすい丸トレイン",
+          "race": "R29 混合準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R29_混合準決勝2_04_琵琶湖ドラゴンボートクラブ.csv",
+          "team": "琵琶湖ドラゴンボートクラブ",
+          "race": "R29 混合準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R29_混合準決勝2_05_TOKYODRAGON.csv",
+          "team": "TOKYODRAGON",
+          "race": "R29 混合準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R30_オープン準決勝1_01_水俣龍舟.csv",
+          "team": "水俣龍舟",
+          "race": "R30 オープン準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R30_オープン準決勝1_03_SunshineDragonBoatTeam(Open).csv",
+          "team": "SunshineDragonBoatTeam(Open)",
+          "race": "R30 オープン準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R30_オープン準決勝1_05_東京龍舟ワイルド.csv",
+          "team": "東京龍舟ワイルド",
+          "race": "R30 オープン準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R31_オープン準決勝2_01_bp.csv",
+          "team": "bp",
+          "race": "R31 オープン準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R31_オープン準決勝2_02_ヨイショ.csv",
+          "team": "ヨイショ",
+          "race": "R31 オープン準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R31_オープン準決勝2_03_魚橋水神龍会.csv",
+          "team": "魚橋水神龍会",
+          "race": "R31 オープン準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R31_オープン準決勝2_04_AquaFortisDragonBoatTeam(Open).csv",
+          "team": "AquaFortisDragonBoatTeam(Open)",
+          "race": "R31 オープン準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R31_オープン準決勝2_05_CPPSDragonBoatTeam(Open)B.csv",
+          "team": "CPPSDragonBoatTeam(Open)B",
+          "race": "R31 オープン準決勝2"
+        },
+        {
+          "file": "data/2026-11-01/R32_普及3回戦_01_超越龍舟.csv",
+          "team": "超越龍舟",
+          "race": "R32 普及3回戦"
+        },
+        {
+          "file": "data/2026-11-01/R32_普及3回戦_03_うみひRISE.csv",
+          "team": "うみひRISE",
+          "race": "R32 普及3回戦"
+        },
+        {
+          "file": "data/2026-11-01/R33_女子決勝_01_水風(MIZUKAZE).csv",
+          "team": "水風(MIZUKAZE)",
+          "race": "R33 女子決勝"
+        },
+        {
+          "file": "data/2026-11-01/R33_女子決勝_02_東京龍舟プラチナ.csv",
+          "team": "東京龍舟プラチナ",
+          "race": "R33 女子決勝"
+        },
+        {
+          "file": "data/2026-11-01/R33_女子決勝_03_水俣KOGIMIX漕美ちゃん.csv",
+          "team": "水俣KOGIMIX漕美ちゃん",
+          "race": "R33 女子決勝"
+        },
+        {
+          "file": "data/2026-11-01/R33_女子決勝_04_沖縄龍舟シニア女子.csv",
+          "team": "沖縄龍舟シニア女子",
+          "race": "R33 女子決勝"
+        },
+        {
+          "file": "data/2026-11-01/R33_女子決勝_05_桜ノ宮艇庫前9時嬢.csv",
+          "team": "桜ノ宮艇庫前9時嬢",
+          "race": "R33 女子決勝"
+        },
+        {
+          "file": "data/2026-11-01/R34_シニア決勝_01_沖縄龍舟シニア.csv",
+          "team": "沖縄龍舟シニア",
+          "race": "R34 シニア決勝"
+        },
+        {
+          "file": "data/2026-11-01/R34_シニア決勝_02_東京龍舟マスターズ.csv",
+          "team": "東京龍舟マスターズ",
+          "race": "R34 シニア決勝"
+        },
+        {
+          "file": "data/2026-11-01/R34_シニア決勝_03_bpシニア.csv",
+          "team": "bpシニア",
+          "race": "R34 シニア決勝"
+        },
+        {
+          "file": "data/2026-11-01/R34_シニア決勝_04_すいすい丸BOM-BA-YE.csv",
+          "team": "すいすい丸BOM-BA-YE",
+          "race": "R34 シニア決勝"
+        },
+        {
+          "file": "data/2026-11-01/R35_混合決勝_01_漕遊人.csv",
+          "team": "漕遊人",
+          "race": "R35 混合決勝"
+        },
+        {
+          "file": "data/2026-11-01/R35_混合決勝_02_関西龍舟シンバ.csv",
+          "team": "関西龍舟シンバ",
+          "race": "R35 混合決勝"
+        },
+        {
+          "file": "data/2026-11-01/R35_混合決勝_03_ビューティープレミアMIX.csv",
+          "team": "ビューティープレミアMIX",
+          "race": "R35 混合決勝"
+        },
+        {
+          "file": "data/2026-11-01/R35_混合決勝_04_東京龍舟.csv",
+          "team": "東京龍舟",
+          "race": "R35 混合決勝"
+        },
+        {
+          "file": "data/2026-11-01/R36_オープン決勝_02_bp.csv",
+          "team": "bp",
+          "race": "R36 オープン決勝"
+        },
+        {
+          "file": "data/2026-11-01/R36_オープン決勝_03_水俣龍舟.csv",
+          "team": "水俣龍舟",
+          "race": "R36 オープン決勝"
+        },
+        {
+          "file": "data/2026-11-01/R36_オープン決勝_04_ヨイショ.csv",
+          "team": "ヨイショ",
+          "race": "R36 オープン決勝"
+        },
+        {
+          "file": "data/2026-11-01/R37_香港カップ特別_03_SeaLuckDragonBoatClub緑海龍(Senior).csv",
+          "team": "SeaLuckDragonBoatClub緑海龍(Senior)",
+          "race": "R37 香港カップ特別"
+        },
+        {
+          "file": "data/2026-11-01/R37_香港カップ特別_04_AquaFortisDragonBoatTeam(Open).csv",
+          "team": "AquaFortisDragonBoatTeam(Open)",
+          "race": "R37 香港カップ特別"
         }
       ]
     }
