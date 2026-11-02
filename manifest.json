@@ -1035,6 +1035,11 @@
           "race": "R28 混合準決勝1"
         },
         {
+          "file": "data/2026-11-01/R28_混合準決勝1_04_関西龍舟バーバリアンズ.csv",
+          "team": "関西龍舟バーバリアンズ",
+          "race": "R28 混合準決勝1"
+        },
+        {
           "file": "data/2026-11-01/R28_混合準決勝1_05_AquaFortisDragonBoatTeam(Mixed).csv",
           "team": "AquaFortisDragonBoatTeam(Mixed)",
           "race": "R28 混合準決勝1"
@@ -1072,6 +1077,11 @@
         {
           "file": "data/2026-11-01/R30_オープン準決勝1_03_SunshineDragonBoatTeam(Open).csv",
           "team": "SunshineDragonBoatTeam(Open)",
+          "race": "R30 オープン準決勝1"
+        },
+        {
+          "file": "data/2026-11-01/R30_オープン準決勝1_04_しげる.csv",
+          "team": "しげる",
           "race": "R30 オープン準決勝1"
         },
         {
